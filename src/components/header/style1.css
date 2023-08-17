@@ -1,0 +1,38 @@
+.app {
+  position: static;
+  background-color: rgb(146, 136, 248, 0.3);
+  font-family: "Edu SA Beginner", cursive;
+  font-weight: 250;
+  font-size: larger;
+  height: min-content;
+  padding-bottom: 2px;
+  padding-top: 0px;
+}
+
+.mainname {
+  position: relative;
+  left: 50px;
+}
+
+.subnames {
+  position: relative;
+  left: 25px;
+}
+
+.navbar-toggler {
+  height: inherit;
+  width: 40px;
+}
+
+.downicon {
+  margin-right: 10px;
+  text-align: start;
+}
+
+.nav-item {
+  margin-left: 30px;
+}
+
+.navbar {
+  background-color: rgb(146, 136, 248, 0.9);
+}

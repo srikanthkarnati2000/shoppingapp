@@ -36,3 +36,93 @@
     transform: rotate(360deg);
   }
 }
+
+.maincontent {
+  font-family: "Roboto", sans-serif;
+}
+
+.sidecontent {
+  font-size: x-small;
+  background-color: red;
+  margin: auto;
+}
+
+.subhead {
+  font-size: small;
+}
+
+.locationcard {
+  height: 300px;
+  width: 350px;
+}
+
+.accordion {
+  position: static;
+  margin-left: 50px;
+  width: 400px;
+}
+
+.footercontent {
+  padding-bottom: 25px;
+}
+
+.backtop {
+  padding-top: 8px;
+  height: 40px;
+  background-color: rgb(146, 136, 248, 0.3);
+}
+
+#logomain {
+  height: 120px;
+}
+
+.loginform {
+  width: 550px;
+  height: 360px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.addressform {
+  width: 500px;
+  height: 420px;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.cartbutton {
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  margin-top: 35px;
+  background-color: rgb(206, 206, 90, 0.7);
+}
+
+.cartbutton:hover {
+  background-color: rgb(146, 136, 248, 0.3);
+}
+
+.viewbutton {
+  height: 35px;
+  width: 70px;
+  text-align: center;
+  margin-top: 35px;
+  background-color: rgb(206, 206, 90, 0.7);
+}
+
+.viewbutton:hover {
+  background-color: rgba(69, 165, 13, 0.3);
+}
+
+.showimage {
+  height: 600px;
+  width: 400px;
+}
+
+.homecontent {
+  color: rgb(14, 1, 1);
+  isolation: isolate;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,26 @@
+.productcard {
+  margin-right: 50px;
+  border: transparent;
+}
+
+.productimage {
+  position: relative;
+  height: 220px;
+  width: 180px;
+  left: 75px;
+  border: transparent;
+}
+
+.cartimage {
+  height: 180px;
+  width: 150px;
+  border: transparent;
+}
+
+.numericpanel {
+  width: 35px;
+}
+
+.col-4 {
+  flex: 0 0 auto;
+}
