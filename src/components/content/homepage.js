@@ -20,11 +20,11 @@ const Homepage = () => {
                   Discover a World of Shopping Convenience and Style!
                 </p>
                 <p>
-                  At Shop Connect, we're committed to revolutionizing your
-                  shopping experience. Whether you're a fashion enthusiast, tech
-                  geek, or home decor lover, we've got everything you need in
-                  one place. Explore our wide range of products, curated to suit
-                  your unique tastes and preferences.
+                  At Shop Connect, we're committed to revolutionizing your 🛍️
+                  shopping experience. Whether you're a fashion enthusiast 👗👠,
+                  tech geek 📱💻, or home decor lover 🏠🛋️, we've got everything
+                  you need in one place. Explore our wide range of products
+                  🎁🌟, curated to suit your unique tastes and preferences. 🤩🛒
                 </p>
               </div>
               <div className="text-start">
