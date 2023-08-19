@@ -23,7 +23,7 @@ export default class App extends Component {
           <Header />
           <div className="container-fluid text-center maincontent my-5">
             <Content />
-            <div className="">
+            <div>
               <Routes>
                 <Route exact path="/" element={<Homepage />}></Route>
                 <Route exact path="/home" element={<Homepage />}></Route>
